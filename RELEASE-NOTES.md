@@ -1,4 +1,5 @@
 Release changes in version 2.0.5
+*New Update*
 
 
 - Spring Data JPA
